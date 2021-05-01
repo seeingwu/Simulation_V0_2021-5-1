@@ -15,3 +15,15 @@ or go to work. The travel behaviours include mode choice and road assignment.
 The infection risk is calculated in a quite easy way. It is determined by a pre-loaded probablility distribution and the Perception 
 of the agent. Agent's perception will influence their behaviours. In that way, agent with virous perception has different infection
 risk.
+
+# Future improments
+## Agent
+  1. Add the number of the agents.
+  2. Add the dimension (degree of freedom) of the Agent. The agent can evolve their behaviours or change the strategy.
+  3. Add the Agent's types: For example, the environment agent such as school, workplace, external vrius environment etc.
+## Visualization
+  1. Give different agent types different shapes. The environment can also be visualized (rectangle)
+  2. Add other charts.
+## Model Logic
+  1. The current model step represents the disctete events. Four steps consitutes one day.
+  2. The infection mechanism can be improved along with the perception thing.
